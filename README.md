@@ -9,4 +9,4 @@ Files are as follows:
 - Csv files exported from the SQL queries I had to visualize
 - Python and Jupyter Notebook files with code used to visualize the data with Matplotlib
 - Png files of the visualizations
-- PowerPoint Presentation showcasing the visualizations and drawing some basic insights
+- PowerPoint presentation showcasing the visualizations and drawing some basic insights
